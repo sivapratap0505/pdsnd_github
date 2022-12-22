@@ -8,7 +8,7 @@ Analyze BikeShare data using Python Libraries
 
 ### Description
 Bikeshare is a pseudo company that rents Bikes on pay-as-you go basis. this project is intended to help bikeshare analyze its customer data across three different cities, New York City, Washington and Chicago.
-The project is developed on Python and Analysis has been accomplished using Python Libraries, Numpy and Pandas
+The project is developed on *Python* and Analysis has been accomplished using *Python Libraries*, *Numpy* and *Pandas*
 
 ### Files used
 bikeshare.py__
