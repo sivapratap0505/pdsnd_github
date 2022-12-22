@@ -11,14 +11,14 @@ Bikeshare is a pseudo company that rents Bikes on pay-as-you go basis. this proj
 The project is developed on Python and Analysis has been accomplished using Python Libraries, Numpy and Pandas
 
 ### Files used
-bikeshare.py
-chicago.csv
-new_york_city.csv
-washington.csv
+bikeshare.py__
+chicago.csv__
+new_york_city.csv__
+washington.csv__
 
 ### Credits
 Below are the links referred to accomplish the project :
-#https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python
-#https://www.includehelp.com/python/unique-combinations-of-values-in-selected-columns-in-pandas-dataframe-and-count.aspx
-#https://stackoverflow.com/questions/56310134/find-the-mode-across-multiple-columns-for-each-row-of-a-pandas-dataframe
+#https://stackoverflow.com/questions/53037698/how-can-i-find-the-most-frequent-two-column-combination-in-a-dataframe-in-python__
+#https://www.includehelp.com/python/unique-combinations-of-values-in-selected-columns-in-pandas-dataframe-and-count.aspx__
+#https://stackoverflow.com/questions/56310134/find-the-mode-across-multiple-columns-for-each-row-of-a-pandas-dataframe__
 
